@@ -6,7 +6,7 @@ For this project, we designed a quiz application for interesting facts challenge
 
 ## UML Diagram    
 
-![Image of Yaktocat](https://github.com/guanhaopeng/Quiz-App/UML.png)
+![Image of UML](https://github.com/guanhaopeng/Quiz-App/UML.png)
 
 The diagram indicates the variables and the methods that we used in each class. From the diagram, we can notice that the main package is the ‘QuizProject’ and three classes sever the main project which is Main, game and Result. Game class is a big class, lots of class sever it in other package. Moreover, the player class sever all the other class except the questionList. The questionList class merely sever the questions class.
 
